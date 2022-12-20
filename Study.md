@@ -5,4 +5,5 @@
 - 2022-12-16 : Spring Data JPA 1시간 빼고 완료
 - 2022-12-17 : Spring Data JPA 끝, flyway 학습
 - 2022-12-19 : Real Mysql 4장 (mysql 엔진) 스토리지엔진 중간부분 읽는중, 프로토타입 개발
-
+- 2022-12-20 : Realy Mysql 5장 읽는중, 기능 작성, 레포지토리 생성 
+- 2022-12-21 : 예정(ERD, flyway설정, Reay mysql 5장, ci/cd 공부)
